@@ -1,0 +1,11 @@
+# Java compilation output
+*.class
+out/
+bin/
+
+# macOS files
+.DS_Store
+
+# Common IDE-generated files
+.idea/
+*.iml
